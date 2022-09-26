@@ -1,0 +1,176 @@
+[
+    {
+        "key": "1",
+        "logo": "assets/real-madrid.png",
+        "name": "Real Madrid",
+        "field": "Estadio Santiago Bernabéu",
+        "community": "Comunidad de Madrid",
+        "nextSchedule": "27/09/2022",
+        "state": "recording",
+        "isRecorded": true
+    },
+    {
+        "key": "2",
+        "logo": "assets/barcelona.png",
+        "name": "Fútbol Club Barcelona",
+        "field": "Spotify Camp Nou",
+        "community": "Cataluña",
+        "nextSchedule": "22/09/2022",
+        "state": "recorded",
+        "isRecorded": true
+    },
+    {
+        "key": "3",
+        "logo": "assets/atletico.png",
+        "name": "Atlético de Madrid",
+        "field": "Civitas Metropolitano",
+        "community": "Comunidad de Madrid",
+        "nextSchedule": null,
+        "state": "offline"
+    },
+    {
+        "key": "4",
+        "logo": "assets/athletic.png",
+        "name": "Athletic Club",
+        "field": "San Mamés",
+        "community": "País Vasco",
+        "nextSchedule": null,
+        "state": "offline"
+    },
+    {
+        "key": "5",
+        "name": "Atlético Osasuna",
+        "field": "Estadio El Sadar",
+        "community": "Navarra",
+        "nextSchedule": null,
+        "state": "offline"
+    },
+    {
+        "key": "6",
+        "logo": "assets/cadiz.png",
+        "name": "Cádiz Club de Fútbol SAD",
+        "field": "Estadio Nuevo Mirandilla",
+        "community": "Andalucía",
+        "nextSchedule": null,
+        "state": "offline"
+    },
+    {
+        "key": "7",
+        "logo": "assets/elche.png",
+        "name": "Elche Club de Fútbol SAD",
+        "field": "Estadio Martínez Valero",
+        "community": "Comunidad Valenciana",
+        "nextSchedule": "22/09/2022"
+    },
+    {
+        "key": "8",
+        "name": "Getafe Club de Fútbol SAD",
+        "field": "Coliseum Alfonso Pérez",
+        "community": "Comunidad de Madrid",
+        "nextSchedule": null,
+        "state": "offline"
+    },
+    {
+        "key": "9",
+        "name": "Girona Fútbol Club SAD",
+        "field": "Estadio Municipal de Montilivi",
+        "community": "Cataluña",
+        "nextSchedule": null,
+        "state": "offline"
+    },
+    {
+        "key": "10",
+        "logo": "assets/rayo.png",
+        "name": "Rayo Vallecano de Madrid SAD",
+        "field": "Estadio de Vallecas",
+        "community": "Comunidad de Madrid",
+        "nextSchedule": null
+    },
+    {
+        "key": "11",
+        "logo": "assets/celta.png",
+        "name": "Real Club Celta de Vigo SAD",
+        "field": "Estadio ABANCA Balaídos",
+        "community": "Galicia",
+        "nextSchedule": null,
+        "state": "offline"
+    },
+    {
+        "key": "12",
+        "logo": "assets/espanyol.png",
+        "name": "RCD Espanyol de Barcelona",
+        "field": "RCDE Stadium",
+        "community": "Cataluña",
+        "nextSchedule": null
+    },
+    {
+        "key": "13",
+        "logo": "assets/mallorca.png",
+        "name": "Real Club Deportivo Mallorca SAD",
+        "field": "Visit Mallorca Estadi",
+        "community": "Islas Baleares",
+        "nextSchedule": null
+    },
+    {
+        "key": "14",
+        "logo": "assets/betis.png",
+        "name": "Real Betis Balompié SAD",
+        "field": "Estadio Benito Villamarín",
+        "community": "Andalucía",
+        "nextSchedule": null
+    },
+    {
+        "key": "15",
+        "logo": "assets/real-sociedad.png",
+        "name": "Real Sociedad de Fútbol SAD",
+        "field": "Reale Arena",
+        "community": "País Vasco",
+        "nextSchedule": null,
+        "state": "offline"
+    },
+    {
+        "key": "16",
+        "logo": "assets/valladolid.png",
+        "name": "Real Valladolid Club de Fútbol SAD",
+        "field": "Estadio Municipal José Zorrilla",
+        "community": "Castilla y León",
+        "nextSchedule": null,
+        "state": "offline"
+    },
+    {
+        "key": "17",
+        "logo": "assets/sevilla.png",
+        "name": "Sevilla Fútbol Club SAD",
+        "field": "Ramón Sánchez-Pizjuán",
+        "community": "Andalucía",
+        "nextSchedule": null,
+        "state": "offline"
+    },
+    {
+        "key": "18",
+        "logo": "assets/almeria.png",
+        "name": "Unión Deportiva Almería SAD",
+        "field": "Power Horse Stadium",
+        "community": "Andalucía",
+        "nextSchedule": null,
+        "state": "offline"
+    },
+    {
+        "key": "19",
+        "logo": "assets/valencia.png",
+        "name": "Valencia Club de Fútbol SAD",
+        "field": "Camp de Mestalla",
+        "community": "Comunidad Valenciana",
+        "nextSchedule": null,
+        "state": "offline"
+    },
+    {
+        "key": "20",
+        "logo": "assets/villarreal.png",
+        "name": "Villarreal Club de Fútbol SAD",
+        "field": "Estadio de la Cerámica",
+        "community": "Comunidad Valenciana",
+        "nextSchedule": null,
+        "state": "offline"
+    }
+]
